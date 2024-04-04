@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-emeraldmdm10-dev-60e8c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::345392615032:role/amplify-emeraldmdm10-dev-60e8c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::345392615032:role/amplify-emeraldmdm10-dev-60e8c-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-emeraldmdm10-dev-60e8c-deployment",
+      "UnauthRoleName": "amplify-emeraldmdm10-dev-60e8c-unauthRole",
+      "StackName": "amplify-emeraldmdm10-dev-60e8c",
+      "StackId": "arn:aws:cloudformation:eu-north-1:345392615032:stack/amplify-emeraldmdm10-dev-60e8c/e9210380-f1df-11ee-a719-067c39c1a4a1",
+      "AmplifyAppId": "d2r1pqltydbe61"
+    },
+    "categories": {
+      "function": {
+        "emeraldmdm10e8072565": {
+          "deploymentBucketName": "amplify-emeraldmdm10-dev-60e8c-deployment",
+          "s3Key": "amplify-builds/emeraldmdm10e8072565-6b5175734e7034544c6a-build.zip"
+        }
+      },
+      "auth": {
+        "emeraldmdm1028868f26": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2r1pqltydbe61",
+          "type": "manual"
+        }
+      },
+      "api": {
+        "api83d15cb6": {}
+      }
+    }
+  }
+}

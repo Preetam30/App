@@ -1,0 +1,50 @@
+.client-master-view-wrapper {
+  margin: 2rem;
+
+  .page-heading {
+    margin: 2rem 2rem 1rem;
+  }
+
+  .card-wrapper {
+    margin: 0 2rem 2rem;
+
+    .card-heading {
+      margin: 2rem 2rem 0 2rem;
+    }
+
+    .card-body {
+      margin: 0 2rem 2rem 2rem;
+
+      .lbl-val {
+        margin-bottom: 2rem;
+        line-height: 15px;
+      }
+
+      .attachment-card{
+        width: 30%;
+      }
+    }
+
+    .card-footer{
+      margin-bottom: 1rem;
+
+      .btn-reject, .btn-approve{
+        width: 20%;
+        border-radius: 10px;
+      }
+
+    }
+
+    .conflict-card-heading{
+      margin: 2rem;
+    }
+
+    .conflict-text{
+      color: red;
+    }
+  }
+}
+
+.color-blue{
+  color: #337FCC;
+}
